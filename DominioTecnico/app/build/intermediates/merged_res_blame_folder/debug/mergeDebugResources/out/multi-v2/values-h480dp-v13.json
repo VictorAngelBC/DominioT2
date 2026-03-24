@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.dominiotecnico.app-mergeDebugResources-35:/values-h480dp-v13/values-h480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PERSONAL\\.gradle\\caches\\9.1.0\\transforms\\46ce4996e5e1684eaaaed4513c17c37f\\workspace\\transformed\\material-1.13.0\\res\\values-h480dp-v13\\values-h480dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

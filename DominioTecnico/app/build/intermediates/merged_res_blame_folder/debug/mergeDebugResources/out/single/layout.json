@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.dominiotecnico.app-mergeDebugResources-36:/layout/bienvenida.xml",
+        "source": "com.example.dominiotecnico.app-main-39:/layout/bienvenida.xml"
+    },
+    {
+        "merged": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-mergeDebugResources-36:\\layout\\activity_iniciars.xml",
+        "source": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-main-39:\\layout\\activity_iniciars.xml"
+    },
+    {
+        "merged": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-mergeDebugResources-36:\\layout\\fragment_registros.xml",
+        "source": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-main-39:\\layout\\fragment_registros.xml"
+    },
+    {
+        "merged": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-mergeDebugResources-36:\\layout\\fragmento_login.xml",
+        "source": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-main-39:\\layout\\fragmento_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-mergeDebugResources-36:\\layout\\bienvenida.xml",
+        "source": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-main-39:\\layout\\bienvenida.xml"
+    },
+    {
+        "merged": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-mergeDebugResources-36:\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-main-39:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-mergeDebugResources-36:\\layout\\fragment_fragmento.xml",
+        "source": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-main-39:\\layout\\fragment_fragmento.xml"
+    },
+    {
+        "merged": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-mergeDebugResources-36:\\layout\\activity_registros.xml",
+        "source": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-main-39:\\layout\\activity_registros.xml"
+    },
+    {
+        "merged": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-mergeDebugResources-36:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-main-39:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-mergeDebugResources-36:\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-main-39:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\PERSONAL\\.gradle\\daemon\\9.1.0\\com.example.dominiotecnico.app-main-39:\\layout\\activity_main.xml"
+    }
+]
